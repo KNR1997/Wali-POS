@@ -1,3 +1,0 @@
-<template>
-    Subscribe
-</template>
